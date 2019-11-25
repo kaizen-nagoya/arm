@@ -2,7 +2,14 @@
 
 This is an arm related repository such as compiler, docker and raspberry PI.
 
-# raspberry PI
+1. raspberry PI self compile environment
+
+1.1 raspberry PI not compile environment
+
+
+
+# PC
+## raspberry PI
 
 名古屋のIoTは名古屋のOSで Raspberry PI & TOPPERS
 https://qiita.com/kaizen_nagoya/items/4c46153324a8081fe18c
@@ -35,6 +42,18 @@ https://qiita.com/kaizen_nagoya/items/914ee3d42972fc802939
 dockerで機械学習(13) with anaconda(13)カラー図解　Raspberry pi ではじめる機械学習　基礎からディープラーニングまで
 https://qiita.com/kaizen_nagoya/items/f8e4c20ffea772e15c0b
 
+## android
+
+## arm pc
+Snapdragon 8cx搭載Windowsノート「Galaxy Book S」の性能を探る
+https://appleroid.com/pc/snapdragon-8cx-galaxybooks-news/
+
+“Windows On Arm”の「Yoga C630」を解剖 ―― ついに実現された複数OS対応プラットフォーム
+https://eetimes.jp/ee/articles/1906/26/news014.html
+
+
+## arm cloud
+
 
 # docker
 
@@ -44,6 +63,16 @@ https://qiita.com/koduki/items/0ed303dac5d32646194f
 docker(1)利用を勧める17の理由
 https://qiita.com/kaizen_nagoya/items/c4e5075142bf5e11ddbe
 
+# compiler
+
+## self
+
+### gcc
+
+
+## closs
+
+### gcc
 
 
 # git
